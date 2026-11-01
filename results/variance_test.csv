@@ -1,0 +1,3 @@
+test,statistic,p,sd_fixed_pct,sd_costplus_pct,variance_ratio
+"Brown-Forsythe, all four tiers",29.6784,0.0,99.7685,168.4802,2.8517
+"Brown-Forsythe, fixed price vs cost-plus",80.2941,0.0,99.7685,168.4802,2.8517

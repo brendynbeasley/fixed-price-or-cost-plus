@@ -1,0 +1,17 @@
+# USAspending award data archives (about 400 MB); src/build_awards.py fetches them
+data/raw/usaspending/
+data/raw/*.zip
+*.part
+
+# Scratch outputs
+data/derived/awards_test.csv
+
+# Secrets
+*.key
+
+# Python and OS
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store

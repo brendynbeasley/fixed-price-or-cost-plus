@@ -1,0 +1,5 @@
+tier,contracts,initial_value_bn,final_value_bn,share_raised_pct,share_overspent_pct,mean_growth_pct,median_growth_pct,p90_growth_pct,sd_growth_pct,dollar_growth_pct
+Fixed price,2347,17.47,21.87,55.52,47.21,29.24,1.85,72.95,99.77,25.2
+Incentive,16,6.85,10.03,75.0,62.5,100.21,23.63,219.61,203.89,46.48
+Cost-plus,913,34.81,57.04,61.66,52.9,70.04,8.34,214.06,168.48,63.84
+Time and materials,665,5.01,6.94,50.23,36.09,48.26,0.14,142.5,143.14,38.58

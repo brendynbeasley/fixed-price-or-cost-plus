@@ -1,0 +1,11 @@
+pricing,pricing_type,tier,contracts,initial_value_bn,final_value_bn,share_raised_pct,share_overspent_pct,mean_growth_pct,median_growth_pct,p90_growth_pct,sd_growth_pct,dollar_growth_pct
+J,Firm fixed price,Fixed price,2310,17.14,21.34,55.84,47.53,29.08,1.88,71.88,99.49,24.52
+U,Cost plus fixed fee,Cost-plus,691,14.88,22.35,61.65,52.68,78.59,8.34,269.18,182.38,50.17
+Y,Time and materials,Time and materials,504,3.83,5.38,45.83,35.12,48.1,0.0,170.56,148.43,40.68
+Z,Labor hours,Time and materials,161,1.18,1.56,63.98,39.13,48.76,11.56,114.4,125.56,31.77
+R,Cost plus award fee,Cost-plus,141,18.95,33.58,73.76,65.25,49.37,21.42,121.03,97.56,77.27
+S,"Cost, no fee",Cost-plus,81,0.98,1.1,40.74,33.33,33.05,0.0,32.35,131.42,12.16
+K,"Fixed price, economic price adjustment",Fixed price,33,0.24,0.26,27.27,18.18,20.03,-0.0,67.76,92.86,6.34
+V,Cost plus incentive fee,Incentive,12,5.69,8.72,83.33,75.0,122.12,36.56,282.36,230.89,53.21
+L,Fixed price incentive,Incentive,4,1.16,1.32,50.0,25.0,34.49,0.93,96.67,68.55,13.49
+M,Fixed price award fee,Fixed price,4,0.09,0.28,100.0,100.0,196.86,198.88,365.1,188.99,197.78
